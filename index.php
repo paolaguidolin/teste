@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <p>Olá Git</p>
+        <p>Olá Git mesmo</p>
         <?php
         // put your code here
         ?>
